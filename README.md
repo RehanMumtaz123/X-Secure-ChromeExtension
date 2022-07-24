@@ -1,7 +1,7 @@
 # ChromeExtension-X-secure
 
 ChromeExtension-X-secure
-
+![About X-secure](/img12.png)
 We have developed a browser extension (Chrome) based on javascript that sends every URL to the Web Application endpoint deployed on X-secure Service. With the help of the REST API, safety status is verified in real-time, and if any phishing activity is discovered, the chrome extension prompts the user to redirect to a legitimate safe page.
 
 ## About Chrome Extension
